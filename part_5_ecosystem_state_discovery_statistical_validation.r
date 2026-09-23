@@ -1,8 +1,6 @@
 # ======================================================================
 # M3.2 — LIONESS MODULE-LEVEL BIOLOGICAL AXES
 #          AND PATIENT ECOSYSTEM-STATE DISCOVERY
-#
-#
 # PURPOSE
 # -------
 # Determine whether module-level LIONESS entropy contains reproducible
@@ -34,6 +32,18 @@
 # 8. Bootstrap ARI stability
 # 9. Ecosystem-state assignment
 # 10. State module profiles
+#
+# INPUT
+# -----
+# /content/M3_LIONESS_entropy/M3_LIONESS_module_entropy.csv
+#
+# Optional M3.1 diagnostic file:
+# /content/M3_LIONESS_entropy/M3.1_entropy_diagnostics/
+#     M3.1_module_variation.csv
+#
+# OUTPUT
+# ------
+# /content/M3_LIONESS_entropy/M3.2_module_axes/
 #
 # ======================================================================
 
